@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_perfil"
+        android:title="Perfil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_web"
+        android:title="Docs Android"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_salir"
+        android:title="Salir"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_ayuda"
+        android:title="Ayuda"
+        app:showAsAction="never" />
+</menu>
