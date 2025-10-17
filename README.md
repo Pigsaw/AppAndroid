@@ -60,10 +60,10 @@ O se puede compilar en: (Build > Build Bundle(s) / APK(s) > Build APK(s)).
 
 ## 📷 Capturas de pantalla
 
-![Menú](imagenes/Menú.png)
-![Bluetooth](imagenes/Bluetooth.png)
-![Maps](imagenes/Maps.png)
-![Perfil](imagenes/Perfil.png)
+![Menú](imagenes/menu.png)
+![Bluetooth](imagenes/bluetooth.png)
+![Maps](imagenes/maps.png)
+![Perfil](imagenes/perfil.png)
 
 
 
